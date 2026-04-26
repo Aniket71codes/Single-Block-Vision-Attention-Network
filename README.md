@@ -101,28 +101,6 @@ PR-AUC: 0.9447
 
 These results indicate strong sensitivity and robust discriminative performance for pneumonia detection.
 
-Project Structure
-SB-VAN/
-│
-├── dataset/
-│   ├── train/
-│   ├── val/
-│   └── test/
-│
-├── outputs/
-│   ├── architecture.png
-│   ├── training_curves.png
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   ├── pr_curve.png
-│   └── accuracy_curve.png
-│
-├── sb_van_train.ipynb
-├── sb_van_model.py
-├── requirements.txt
-└── README.md
-Output Visualizations
-
 The project generates the following outputs:
 
 architecture.png — System architecture diagram

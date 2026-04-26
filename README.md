@@ -53,20 +53,7 @@ Classification Head
 Produces binary prediction:
 Normal
 Pneumonia
-Architecture Flow
-Input Image (224×224×3)
-        ↓
-Patch Embedding
-        ↓
-Spatial Positional Encoding
-        ↓
-Single-Head Self Attention
-        ↓
-Feed Forward Network
-        ↓
-Classification Head
-        ↓
-Output (Normal / Pneumonia)
+
 Features
 Lightweight attention-based architecture
 Single self-attention block
